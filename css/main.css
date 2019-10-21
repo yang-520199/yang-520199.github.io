@@ -1115,6 +1115,7 @@ pre .javascript .function {
   color: #fff;
   background: #222;
   border-bottom: none;
+  color: #f00 !important;
 }
 .brand:hover {
   color: #fff;
@@ -1208,6 +1209,7 @@ pre .javascript .function {
   transition-duration: 0.2s;
   transition-timing-function: ease-in-out;
   transition-delay: 0s;
+  color: #00f !important;
 }
 .menu .menu-item a:hover,
 .menu-item-active a {
@@ -1823,7 +1825,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #c2b10f;
+  background: #824bb5;
 }
 .links-of-blogroll {
   font-size: 13px;
